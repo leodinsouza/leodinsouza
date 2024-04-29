@@ -18,3 +18,29 @@
   <img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   </a>
 </div>
+
+
+<table align="center">
+  <tr> 
+     <td align="center" width="90">
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" width="45" height="45" alt="html" />
+      <br>HTML
+    </td>
+    <td align="center" width="90">
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" width="45" height="45" alt="css" />
+      <br>CSS
+    </td>
+     <td align="center" width="90">
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" width="45" height="45" alt="JavaScript" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="90">
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" width="45" height="45" alt="react" />
+      <br>React
+    </td>
+    <td align="center" width="90">
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Redux.svg" width="45" height="45" alt="redux" />
+      <br>Redux
+    </td>
+  </tr>
+</table>
