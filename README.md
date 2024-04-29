@@ -49,8 +49,26 @@
       <br>PostgreSQL
     </td>
     <td align="center" width="90">
-      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MYSQL-Dark.svg" alt="MYSQL" width="55" height="55" />
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg" alt="MYSQL" width="55" height="55" />
       <br>MYSQL
+    </td>
+  </tr>
+</table>
+
+<h2 align="center">Development Tools and Environment</h2>
+<table align="center">
+    <tr>
+       <td align="center" width="90">
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Linux-Dark.svg" width="45" height="45" alt="Linux" />
+      <br>Linux
+    </td>
+    <td align="center" width="90">
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg" alt="Docker" width="55" height="55" />
+      <br>Docker
+    </td>
+    <td align="center" width="90">
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" width="45" height="45" alt="Git" />
+      <br>Git
     </td>
   </tr>
 </table>
