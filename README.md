@@ -49,8 +49,8 @@
       <br>PostgreSQL
     </td>
     <td align="center" width="90">
-      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Mysql-Dark.svg" alt="Mysql" width="55" height="55" />
-      <br>Mysql
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/MYSQL-Dark.svg" alt="MYSQL" width="55" height="55" />
+      <br>MYSQL
     </td>
   </tr>
 </table>
