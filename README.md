@@ -1,6 +1,6 @@
 ### Opa! 👋
 
-<h2 align="center"> 🌐 Frontend Knowledge 🎨 </h2>
+<h2 align="center">Frontend Knowledge</h2>
 
 <table align="center">
   <tr> 
@@ -24,7 +24,7 @@
 </table>
 
 
-<h2 align="center"> 💻 Backend Knowledge 🔧 </h2>
+<h2 align="center">Backend Knowledge</h2>
 
 <table align="center">
     <tr>
