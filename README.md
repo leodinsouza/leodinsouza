@@ -6,7 +6,7 @@
   </a>
 </div>
 <br />  
-<div style="display: inline_block">
+<!-- <div style="display: inline_block">
   <a href="https://github.com/leodinsouza">
   <img align="center" alt="Ubuntu" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain-wordmark.svg" />
   <img align="center" alt="Php" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
@@ -17,7 +17,7 @@
   <img align="center" alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   </a>
-</div>
+</div> -->
 
 
 <table align="center">
@@ -35,12 +35,12 @@
       <br>JavaScript
     </td>
     <td align="center" width="90">
-      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg" width="45" height="45" alt="react" />
-      <br>React
+      <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VueJS-Dark.svg" width="45" height="45" alt="react" />
+      <br>Vue.js
     </td>
-    <td align="center" width="90">
+<!--     <td align="center" width="90">
       <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Redux.svg" width="45" height="45" alt="redux" />
       <br>Redux
-    </td>
+    </td> -->
   </tr>
 </table>
